@@ -1,0 +1,12 @@
+{
+    "Blueprint": "BP_",
+    "WidgetBlueprint": "WBP_",
+    "SkeletalMesh": "SM_",
+    "NiagaraSystem": "NS_",
+    "Material": "M_",
+    "MaterialFunction": "MF_",
+    "MaterialInstanceConstant": "MI_",
+    "RenderTarget": "RT_",
+    "Texture2D": "T_",
+    "SoundCue": "S_"
+}
